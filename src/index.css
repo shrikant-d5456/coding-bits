@@ -12,23 +12,8 @@
   .btn-secondary{
     @apply px-6 py-3 bg-white tracking-wider text-sm font-semibold text-black flex justify-center items-center gap-2;
   }
-  
+
+
 }
 
-.aws-btn {
-
-  --slider-height-percentage: 56%;
-  --slider-transition-duration: 302ms;
-  --organic-arrow-thickness: 20px;
-  --organic-arrow-border-radius: 30px;
-  --organic-arrow-height: 10px;
-  --organic-arrow-color: #d6b18f;
-  --control-button-width: 10%;
-  --control-button-height: 25%;
-  --control-button-background: transparent;
-  --control-bullet-color: #fcd0a8;
-  --control-bullet-active-color: #d6b18f;
-  --loader-bar-color: #851515;
-  --loader-bar-height: 6px;
-  }
  
