@@ -67,7 +67,7 @@ const Testimonial = () => {
 
   return (
     <div className="w-full h-screen flex justify-center items-center m-auto dark:bg-slate-900 dark:text-white">
-      <div className="sm:w-10/12 w-full flex flex-col justify-center items-center gap-4 m-auto">
+      <div className="sm:w-10/12 w-full flex flex-col justify-center items-center gap-4 m-auto sm:p-0 p-6">
         
         <p className="text-4xl font-bold text-center">Our Experts</p>
         <hr className="border-[1px] w-1/2" />
